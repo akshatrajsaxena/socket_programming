@@ -42,8 +42,6 @@ $ sysctl kernel.perf_event_paranoid=3
 
 ```
 
-Reference: https://github.com/andrewrk/poop/issues/17
-
 
 
 ## Running the Programs
@@ -107,4 +105,16 @@ $ sh n_con_clients.sh 10 ./single-threaded-client
 
 ```
 
-Reference: https://man7.org/linux/man-pages/man1/perf-stat.1.html
+## Contact
+
+If you have any questions or feedback, you can reach out to [Akshat Raj Saxena](mailto:akshat22054@iiitd.ac.in)
+
+## Acknowledgements
+
+Special thanks to the creators of JavaFX and the contributor to this project [Akshat Karnwal](https://github.com/Akshat22052).
+
+## Reference
+
+https://man7.org/linux/man-pages/man1/perf-stat.1.html
+
+ https://github.com/andrewrk/poop/issues/17
