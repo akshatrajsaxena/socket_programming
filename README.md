@@ -1,6 +1,17 @@
-# Socket Programming in C
+<h1 align="center">Socket Programming in C</h1>
+<p align="center"><i>Performance Analysis and Optimization of a Single-Threaded TCP Server Using Linux Perf Monitoring Tools</i></p>
+<p align="center"><i>Roll Number: 2022052 & 2022054</i></p>
+<div align="center">
+  <a href="https://github.com/akshatrajsaxena/socket_programming/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/socket_programming" alt="Stars Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/socket_programming/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/socket_programming" alt="Forks Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/socket_programming/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/socket_programming" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/socket_programming/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/socket_programming" alt="Issues Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/socket_programming/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/CGAS_Assignment_1/socket_programming" ?color=2b9348"></a>
+  <a href="https://github.com/akshatrajsaxena/socket_programming/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/socket_programming" ?color=2b9348" alt="License Badge"/></a>
+</div>
+<br>
 
-Roll Number: 2022052 & 2022054
+
 
 ## Bind Already in Use Error 
 
