@@ -1,4 +1,4 @@
-# CN Assignment - 2
+# Socket Programming in C
 
 Roll Number: 2022052 & 2022054
 
